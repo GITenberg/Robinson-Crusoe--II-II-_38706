@@ -1,0 +1,48 @@
+_repo: Robinson-Crusoe--II-II-_38706
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Borel, Pétrus
+    aliases:
+    - Borel, Petrus
+    - D'Hauterive, Pierre Joseph Borel
+    birthdate: 1809
+    deathdate: 1859
+    gutenberg_agent_id: '39615'
+    url: http://www.gutenberg.org/2009/agents/39615
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Defo, Daniel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2012-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38706'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atlantic Ocean -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcc 'PR'
+title: Robinson  Crusoe (II/II)
+url: http://www.gutenberg.org/ebooks/38706
